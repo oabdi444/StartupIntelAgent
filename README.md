@@ -46,9 +46,9 @@ startup_intel_agent/
 
 
 ---
-Getting Started
+### Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/startup-intel-agent.git
