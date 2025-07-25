@@ -46,8 +46,7 @@ startup_intel_agent/
 
 
 ---
-
-## Getting Started
+Getting Started
 
 ### 1. Clone the repository
 
