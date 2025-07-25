@@ -35,7 +35,7 @@ The system integrates multiple data sources—Google Search, ProductHunt, and Cr
 - Responsive Streamlit-based web interface
 - Real-time processing indicators and progress tracking
 - Export capabilities for generated reports
-- Mobile-optimized design patterns
+- Mobile-optimised design patterns
 
 ##  Technical Architecture
 
@@ -129,7 +129,7 @@ startup_intel_agent/
 ### Key Technical Decisions
 - **LangChain Integration**: Provides robust LLM orchestration and tool chaining
 - **Modular Tool Design**: Enables easy extension and maintenance of data sources
-- **Async Processing**: Optimizes API call efficiency and user experience
+- **Async Processing**: Optimises API call efficiency and user experience
 - **Error Resilience**: Comprehensive exception handling with fallback mechanisms
 
 ##  Development & Extension
@@ -148,7 +148,7 @@ class NewDataSource:
 
 ### Custom Chain Development
 ```python
-# Extending summarization capabilities
+# Extending summarisation capabilities
 class CustomAnalysisChain(LLMChain):
     def create_analysis(self, data: Dict) -> str:
         # Custom analysis logic
@@ -165,7 +165,7 @@ class CustomAnalysisChain(LLMChain):
 ##  Security & Best Practices
 
 - **API Key Management**: Environment-based secure configuration
-- **Input Validation**: Comprehensive sanitization and validation
+- **Input Validation**: Comprehensive sanitisation and validation
 - **Rate Limiting**: Built-in API quota management
 - **Error Handling**: Graceful degradation with informative feedback
 
@@ -182,12 +182,9 @@ class CustomAnalysisChain(LLMChain):
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ##  Author
-
 **Osman Hassan Abdi**
 - GitHub: [@oabdi444](https://github.com/oabdi444)
-- 
 
----
 
 *Built with modern AI/ML technologies to solve real-world market intelligence challenges.*
 
