@@ -183,10 +183,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ##  Author
 
-**Osman Abdi**
+**Osman Hassan Abdi**
 - GitHub: [@oabdi444](https://github.com/oabdi444)
-- Portfolio: [Your Portfolio URL]
-- LinkedIn: [Your LinkedIn Profile]
+- 
 
 ---
 
